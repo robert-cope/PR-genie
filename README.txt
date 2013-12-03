@@ -8,7 +8,8 @@ Details appear in this paper:
 
 Cope RC, Lanyon JM, Seddon JM, Pollett PK (In Press) Development and testing of a genetic marker based pedigree reconstruction system ''PR-genie'' incorporating size-class data. Molecular Ecology Resources.
 
-Simulation code exists is also available.
+Population simulation code (i.e., for testing) exists is also available. See https://github.com/robert-cope/popSimulation1.git
+
 
 ################################################
 
