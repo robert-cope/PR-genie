@@ -6,7 +6,9 @@ Copyright 2013 Robert Cope cope.robert.c@gmail.com
 This program, PR-genie, is designed to reconstruct pedigrees for wildlife populations based on genetic and size/maturity-class data.
 Details appear in this paper:
 
-Cope RC, Lanyon JM, Seddon JM, Pollett PK (In Press) Development and testing of a genetic marker based pedigree reconstruction system ''PR-genie'' incorporating size-class data. Molecular Ecology Resources.
+
+Cope RC, Lanyon JM, Seddon JM, Pollett PK (2014) Development and testing of a genetic marker based pedigree reconstruction system ''PR-genie'' incorporating size-class data. Molecular Ecology Resources. DOI: 10.1111/1755-0998.12219
+
 
 Population simulation code (i.e., for testing) exists is also available. See https://github.com/robert-cope/popSimulation1.git
 
